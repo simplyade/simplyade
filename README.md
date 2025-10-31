@@ -1,4 +1,4 @@
-## simplyade/simplyade** 
+## simplyade/simplyade
 ## Hi, I'm Adebisi Ademola Oluseye
 ## | A Software Developer |Full-Stack Enthusiast | IoT & Automation Explorer. 
 ## I'm a passionate Software developer with diverse skill set spanning web, mobile and embedded systems. I enjoy building practical solutions from robust web applications to intelligent hardware - software integrations. My goal is to leverage technology to solve real-world problems and continously learn new paradigms. 
@@ -11,5 +11,5 @@
 - 💬 Ask me about ... Python Fundamentals 
 - 📫 How to reach me: +2349112091138
 
-- ⚡ Fun fact: Curiosity is mother of Inventions
+- ⚡ Fun fact: Curiosity is the mother of Inventions
   
